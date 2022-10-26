@@ -435,6 +435,14 @@ p {
     outline: none;
 }
 
+.social {
+    position: relative;
+    top: 0;
+    left: 140px;
+    width: 60%;
+    margin-top: 15px;
+}
+
 .social title {
     display: block;
     margin: 10px 0;
